@@ -9,3 +9,4 @@ Exploratory Data Analysis (EDA) is used to understand data patterns and relation
 Visualizations help identify correlations between features and test scores.
 The project uses supervised learning algorithms for prediction.
 Linear Regression is implemented as the baseline model.
+Model performance is evaluated using metrics like MAE, MSE, and R² score.
