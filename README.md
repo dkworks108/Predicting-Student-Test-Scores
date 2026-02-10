@@ -8,3 +8,4 @@ Data preprocessing is performed to handle missing values and outliers.
 Exploratory Data Analysis (EDA) is used to understand data patterns and relationships.
 Visualizations help identify correlations between features and test scores.
 The project uses supervised learning algorithms for prediction.
+Linear Regression is implemented as the baseline model.
