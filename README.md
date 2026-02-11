@@ -19,3 +19,4 @@ Results show how study-related factors influence student scores.
 The project demonstrates a complete machine learning workflow.
 Python is used as the primary programming language.
 Libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn are used.
+The code is modular and easy to understand for beginners.
