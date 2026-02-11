@@ -35,3 +35,4 @@ Cross-validation techniques are used to ensure model reliability.
 The repository structure is organized for scalability and future improvements.
 This project helps build strong fundamentals in predictive analytics.
 This project highlights the practical application of machine learning in education.
+It demonstrates how data-driven insights can support academic improvement.
