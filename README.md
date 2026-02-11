@@ -15,3 +15,4 @@ Feature scaling is applied where necessary to improve model accuracy.
  The model is trained on historical student performance data.
 Predictions are generated for unseen test data.
 requests
+Results show how study-related factors influence student scores.
