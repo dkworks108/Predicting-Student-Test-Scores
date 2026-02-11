@@ -20,3 +20,4 @@ The project demonstrates a complete machine learning workflow.
 Python is used as the primary programming language.
 Libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn are used.
 The code is modular and easy to understand for beginners.
+This project is suitable for learning regression concepts.
