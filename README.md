@@ -28,3 +28,4 @@ Future work includes adding more features and real-world datasets.
 This repository is ideal for students and ML beginners.
 
 Contributions and suggestions are welcome.
+The project includes clear documentation for easy setup and execution.
