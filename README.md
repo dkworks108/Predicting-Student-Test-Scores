@@ -16,3 +16,4 @@ Feature scaling is applied where necessary to improve model accuracy.
 Predictions are generated for unseen test data.
 requests
 Results show how study-related factors influence student scores.
+The project demonstrates a complete machine learning workflow.
