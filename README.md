@@ -17,3 +17,4 @@ Predictions are generated for unseen test data.
 requests
 Results show how study-related factors influence student scores.
 The project demonstrates a complete machine learning workflow.
+Python is used as the primary programming language.
