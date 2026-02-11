@@ -29,5 +29,4 @@ This repository is ideal for students and ML beginners.
 
 Contributions and suggestions are welcome.
 The project includes clear documentation for easy setup and execution.
-
 Data visualization graphs provide better insight into model performance.
