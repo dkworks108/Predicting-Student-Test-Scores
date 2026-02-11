@@ -22,3 +22,4 @@ Libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn are used.
 The code is modular and easy to understand for beginners.
 This project is suitable for learning regression concepts.
 It can be extended using advanced models like Random Forest or XGBoost.
+Hyperparameter tuning can further improve prediction accuracy.
