@@ -26,7 +26,7 @@ Hyperparameter tuning can further improve prediction accuracy.
 The project follows best practices for reproducible ML experiments.
 Future work includes adding more features and real-world datasets.
 This repository is ideal for students and ML beginners.
-
+The implementation is simple, efficient, and beginner-friendly.
 Contributions and suggestions are welcome.
 The project includes clear documentation for easy setup and execution.
 Data visualization graphs provide better insight into model performance.
