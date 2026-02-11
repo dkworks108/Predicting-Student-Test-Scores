@@ -31,3 +31,5 @@ Contributions and suggestions are welcome.
 The project includes clear documentation for easy setup and execution.
 Data visualization graphs provide better insight into model performance.
 Cross-validation techniques are used to ensure model reliability.
+
+The repository structure is organized for scalability and future improvements.
