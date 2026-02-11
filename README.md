@@ -12,3 +12,4 @@ Linear Regression is implemented as the baseline model.
 Model performance is evaluated using metrics like MAE, MSE, and R² score.
 The dataset is split into training and testing sets.
 Feature scaling is applied where necessary to improve model accuracy.
+ The model is trained on historical student performance data.
