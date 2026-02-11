@@ -24,3 +24,4 @@ This project is suitable for learning regression concepts.
 It can be extended using advanced models like Random Forest or XGBoost.
 Hyperparameter tuning can further improve prediction accuracy.
 The project follows best practices for reproducible ML experiments.
+Future work includes adding more features and real-world datasets.
