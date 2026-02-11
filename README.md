@@ -33,3 +33,4 @@ Data visualization graphs provide better insight into model performance.
 Cross-validation techniques are used to ensure model reliability.
 
 The repository structure is organized for scalability and future improvements.
+This project helps build strong fundamentals in predictive analytics.
