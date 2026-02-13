@@ -28,3 +28,5 @@ Future work includes adding more features and real-world datasets.
 This repository is ideal for students and ML beginners.
 The implementation is simple, efficient, and beginner-friendly.
 Contributions and suggestions are welcome.
+
+The project includes clear documentation for easy setup and execution.
