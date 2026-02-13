@@ -44,3 +44,6 @@ This project helps build strong fundamentals in predictive analytics.
 This project highlights the practical application of machine learning in education.
 
 It demonstrates how data-driven insights can support academic improvement.
+
+
+Feel free to fork this repository and experiment with your own improvements.
