@@ -28,12 +28,3 @@ Future work includes adding more features and real-world datasets.
 This repository is ideal for students and ML beginners.
 The implementation is simple, efficient, and beginner-friendly.
 Contributions and suggestions are welcome.
-The project includes clear documentation for easy setup and execution.
-Data visualization graphs provide better insight into model performance.
-Cross-validation techniques are used to ensure model reliability.
-⭐ If you found this project helpful, consider giving it a star!
-The repository structure is organized for scalability and future improvements.
-This project helps build strong fundamentals in predictive analytics.
-This project highlights the practical application of machine learning in education.
-It demonstrates how data-driven insights can support academic improvement.
-Feel free to fork this repository and experiment with your own improvements.
