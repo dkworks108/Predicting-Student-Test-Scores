@@ -38,3 +38,6 @@ Cross-validation techniques are used to ensure model reliability.
 ⭐ If you found this project helpful, consider giving it a star!
 
 The repository structure is organized for scalability and future improvements.
+
+This project helps build strong fundamentals in predictive analytics.
+
