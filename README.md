@@ -30,3 +30,5 @@ The implementation is simple, efficient, and beginner-friendly.
 Contributions and suggestions are welcome.
 
 The project includes clear documentation for easy setup and execution.
+
+Data visualization graphs provide better insight into model performance.
