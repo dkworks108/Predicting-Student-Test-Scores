@@ -14,7 +14,6 @@ The dataset is split into training and testing sets.
 Feature scaling is applied where necessary to improve model accuracy.
  The model is trained on historical student performance data.
 Predictions are generated for unseen test data.
-requests
 Results show how study-related factors influence student scores.
 The project demonstrates a complete machine learning workflow.
 Python is used as the primary programming language.
@@ -29,7 +28,7 @@ This repository is ideal for students and ML beginners.
 The implementation is simple, efficient, and beginner-friendly.
 Contributions and suggestions are welcome.
 
-The project includes clear documentation for easy setup and execution.
+final things
 
 Data visualization graphs provide better insight into model performance.
 
